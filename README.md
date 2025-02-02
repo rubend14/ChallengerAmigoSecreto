@@ -15,5 +15,10 @@ REQUSITOS PARA EJECUTAR EL PROYECTO
 
 Usar un navegador que sea compatible con los lenguajes HTML5, CSS3 y JavaScript.
 
+Archivos a utilizar en este proyecto
+index.html: El cul contiene toda la estructura principal del desarrollo del proyecto.
+style.css: Este incluye todos los estilos y visualizaciones que contiene la aplicación.
+app.js: Este archivo contiene la lógica para agregar los nombres y actualizar toda la lista y el sorteo a realizar.
+
 
 
